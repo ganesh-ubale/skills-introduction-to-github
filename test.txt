@@ -1,0 +1,2 @@
+Test auto close issue on PR close
+This is very small change to fix a Bug
