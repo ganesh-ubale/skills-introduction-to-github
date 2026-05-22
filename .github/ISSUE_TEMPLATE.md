@@ -20,7 +20,7 @@ Steps to reproduce the behavior:
 4. See error
 
 ### 📊 Expected Behavior
-A clear and concise description of what you expected to happen.
+A clear and detail description of what you expected to happen. 
 
 ### 📋 Diagnostic Logs / Screenshots
 Please paste any relevant error logs here or drag-and-drop screenshots showing the issue.
